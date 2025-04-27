@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(243, 224, 199) !important;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: rgb(255, 179, 0) !important;
+}
+.hero{
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+}
+.icons i:hover{
+    color: rgb(255, 179, 0) !important;
+}
+.about-img{
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+}
